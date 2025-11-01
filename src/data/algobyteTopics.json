@@ -1,0 +1,389 @@
+[
+  {
+    "id": "day-1-arrays",
+    "title": "Day 1: Arrays",
+    "difficulty": "Medium",
+    "status": "not-started",
+    "subtopics": [
+      {
+        "name": "Set Matrix Zeros",
+        "videoLink": "https://www.youtube.com/playlist?list=PLgUwDviBIf0oF6QL8m22w1hIDC1vJ_BHz",
+        "problemLink": "https://leetcode.com/problems/set-matrix-zeroes/description/",
+        "difficulty": "Medium",
+        "revisionChecklist": false
+      },
+      {
+        "name": "Pascal Triangle",
+        "videoLink": "https://www.youtube.com/playlist?list=PLgUwDviBIf0oF6QL8m22w1hIDC1vJ_BHz",
+        "problemLink": "https://leetcode.com/problems/pascals-triangle/description/",
+        "difficulty": "Medium",
+        "revisionChecklist": false
+      },
+      {
+        "name": "Next Permutation",
+        "videoLink": "https://www.youtube.com/playlist?list=PLgUwDviBIf0oF6QL8m22w1hIDC1vJ_BHz",
+        "problemLink": "https://leetcode.com/problems/next-permutation/description/",
+        "difficulty": "Medium",
+        "revisionChecklist": false
+      },
+      {
+        "name": "Kadane's Algorithm",
+        "videoLink": "https://www.youtube.com/playlist?list=PLgUwDviBIf0oF6QL8m22w1hIDC1vJ_BHz",
+        "problemLink": "https://leetcode.com/problems/maximum-subarray/description/",
+        "difficulty": "Medium",
+        "revisionChecklist": false
+      },
+      {
+        "name": "Sort an array of 0's, 1's and 2's",
+        "videoLink": "https://www.youtube.com/playlist?list=PLgUwDviBIf0oF6QL8m22w1hIDC1vJ_BHz",
+        "problemLink": "https://leetcode.com/problems/sort-colors/description/",
+        "difficulty": "Medium",
+        "revisionChecklist": false
+      },
+      {
+        "name": "Stock Buy and Sell",
+        "videoLink": "https://www.youtube.com/playlist?list=PLgUwDviBIf0oF6QL8m22w1hIDC1vJ_BHz",
+        "problemLink": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/",
+        "difficulty": "Medium",
+        "revisionChecklist": false
+      }
+    ],
+    "comment": ""
+  },
+  {
+    "id": "day-2-arrays-ii",
+    "title": "Day 2: Arrays Part-II",
+    "difficulty": "Medium",
+    "status": "not-started",
+    "subtopics": [
+      {
+        "name": "Rotate Matrix",
+        "videoLink": "https://www.youtube.com/playlist?list=PLgUwDviBIf0oF6QL8m22w1hIDC1vJ_BHz",
+        "problemLink": "https://leetcode.com/problems/merge-intervals/description/",
+        "difficulty": "Medium",
+        "revisionChecklist": false
+      },
+      {
+        "name": "Merge Overlapping Subintervals",
+        "videoLink": "https://www.youtube.com/playlist?list=PLgUwDviBIf0oF6QL8m22w1hIDC1vJ_BHz",
+        "problemLink": "https://leetcode.com/problems/merge-intervals/description/",
+        "difficulty": "Medium",
+        "revisionChecklist": false
+      },
+      {
+        "name": "Merge two sorted arrays without extra space",
+        "videoLink": "https://www.youtube.com/playlist?list=PLgUwDviBIf0oF6QL8m22w1hIDC1vJ_BHz",
+        "problemLink": "https://www.geeksforgeeks.org/merge-two-sorted-arrays-without-extra-space/",
+        "difficulty": "Medium",
+        "revisionChecklist": false
+      },
+      {
+        "name": "Find the duplicate in an array of N+1 integers",
+        "videoLink": "https://www.youtube.com/playlist?list=PLgUwDviBIf0oF6QL8m22w1hIDC1vJ_BHz",
+        "problemLink": "https://leetcode.com/problems/find-the-duplicate-number/description/",
+        "difficulty": "Medium",
+        "revisionChecklist": false
+      },
+      {
+        "name": "Repeat and Missing Number",
+        "videoLink": "https://www.youtube.com/playlist?list=PLgUwDviBIf0oF6QL8m22w1hIDC1vJ_BHz",
+        "problemLink": "https://www.geeksforgeeks.org/find-a-repeating-and-a-missing-number/",
+        "difficulty": "Medium",
+        "revisionChecklist": false
+      },
+      {
+        "name": "Inversion of Array",
+        "videoLink": "https://www.youtube.com/playlist?list=PLgUwDviBIf0oF6QL8m22w1hIDC1vJ_BHz",
+        "problemLink": "https://www.geeksforgeeks.org/count-inversions-in-an-array/",
+        "difficulty": "Medium",
+        "revisionChecklist": false
+      }
+    ],
+    "comment": ""
+  },
+  {
+    "id": "day-3-arrays-iii",
+    "title": "Day 3: Arrays Part-III",
+    "difficulty": "Medium",
+    "status": "not-started",
+    "subtopics": [
+      {
+        "name": "Search in a 2D matrix",
+        "videoLink": "https://www.youtube.com/playlist?list=PLgUwDviBIf0oF6QL8m22w1hIDC1vJ_BHz",
+        "problemLink": "https://leetcode.com/problems/search-a-2d-matrix/description/",
+        "difficulty": "Medium",
+        "revisionChecklist": false
+      },
+      {
+        "name": "Pow(x, n)",
+        "videoLink": "https://www.youtube.com/playlist?list=PLgUwDviBIf0oF6QL8m22w1hIDC1vJ_BHz",
+        "problemLink": "https://leetcode.com/problems/powx-n/description/",
+        "difficulty": "Medium",
+        "revisionChecklist": false
+      },
+      {
+        "name": "Majority Element (n/2 times)",
+        "videoLink": "https://www.youtube.com/playlist?list=PLgUwDviBIf0oF6QL8m22w1hIDC1vJ_BHz",
+        "problemLink": "https://leetcode.com/problems/majority-element/description/",
+        "difficulty": "Medium",
+        "revisionChecklist": false
+      }
+    ],
+    "comment": ""
+  },
+  {
+    "id": "day-4-arrays-iv",
+    "title": "Day 4: Arrays Part-IV",
+    "difficulty": "Medium",
+    "status": "not-started",
+    "subtopics": [
+      {
+        "name": "2-Sum Problem",
+        "videoLink": "https://www.youtube.com/playlist?list=PLgUwDviBIf0oF6QL8m22w1hIDC1vJ_BHz",
+        "problemLink": "https://leetcode.com/problems/two-sum/description/",
+        "difficulty": "Medium",
+        "revisionChecklist": false
+      },
+      {
+        "name": "4-Sum Problem",
+        "videoLink": "https://www.youtube.com/playlist?list=PLgUwDviBIf0oF6QL8m22w1hIDC1vJ_BHz",
+        "problemLink": "https://leetcode.com/problems/4sum/description/",
+        "difficulty": "Medium",
+        "revisionChecklist": false
+      },
+      {
+        "name": "Longest Consecutive Sequence",
+        "videoLink": "https://www.youtube.com/playlist?list=PLgUwDviBIf0oF6QL8m22w1hIDC1vJ_BHz",
+        "problemLink": "https://leetcode.com/problems/longest-consecutive-sequence/description/",
+        "difficulty": "Medium",
+        "revisionChecklist": false
+      },
+      {
+        "name": "Longest Subarray with K sum",
+        "videoLink": "https://www.youtube.com/playlist?list=PLgUwDviBIf0oF6QL8m22w1hIDC1vJ_BHz",
+        "problemLink": "https://www.geeksforgeeks.org/longest-sub-array-sum-k/",
+        "difficulty": "Medium",
+        "revisionChecklist": false
+      },
+      {
+        "name": "Count number of subarrays with given XOR K",
+        "videoLink": "https://www.youtube.com/playlist?list=PLgUwDviBIf0oF6QL8m22w1hIDC1vJ_BHz",
+        "problemLink": "https://www.geeksforgeeks.org/count-number-subarrays-given-xor/",
+        "difficulty": "Medium",
+        "revisionChecklist": false
+      },
+      {
+        "name": "Longest Substring without repeat",
+        "videoLink": "https://www.youtube.com/playlist?list=PLgUwDviBIf0oF6QL8m22w1hIDC1vJ_BHz",
+        "problemLink": "https://leetcode.com/problems/longest-substring-without-repeating-characters/description/",
+        "difficulty": "Medium",
+        "revisionChecklist": false
+      }
+    ],
+    "comment": ""
+  },
+  {
+    "id": "day-5-linked-list",
+    "title": "Day 5: Linked List",
+    "difficulty": "Medium",
+    "status": "not-started",
+    "subtopics": [
+      {
+        "name": "Reverse a LinkedList",
+        "videoLink": "https://www.youtube.com/playlist?list=PLgUwDviBIf0oF6QL8m22w1hIDC1vJ_BHz",
+        "problemLink": "https://leetcode.com/problems/reverse-linked-list/description/",
+        "difficulty": "Medium",
+        "revisionChecklist": false
+      },
+      {
+        "name": "Find the middle of LinkedList",
+        "videoLink": "https://www.youtube.com/playlist?list=PLgUwDviBIf0oF6QL8m22w1hIDC1vJ_BHz",
+        "problemLink": "https://leetcode.com/problems/middle-of-the-linked-list/description/",
+        "difficulty": "Medium",
+        "revisionChecklist": false
+      },
+      {
+        "name": "Merge two sorted Linked List",
+        "videoLink": "https://www.youtube.com/playlist?list=PLgUwDviBIf0oF6QL8m22w1hIDC1vJ_BHz",
+        "problemLink": "https://leetcode.com/problems/merge-two-sorted-lists/description/",
+        "difficulty": "Medium",
+        "revisionChecklist": false
+      },
+      {
+        "name": "Remove N-th node from back of LinkedList",
+        "videoLink": "https://www.youtube.com/playlist?list=PLgUwDviBIf0oF6QL8m22w1hIDC1vJ_BHz",
+        "problemLink": "https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/",
+        "difficulty": "Medium",
+        "revisionChecklist": false
+      },
+      {
+        "name": "Add two numbers as LinkedList",
+        "videoLink": "https://www.youtube.com/playlist?list=PLgUwDviBIf0oF6QL8m22w1hIDC1vJ_BHz",
+        "problemLink": "https://leetcode.com/problems/add-two-numbers/description/",
+        "difficulty": "Medium",
+        "revisionChecklist": false
+      },
+      {
+        "name": "Delete a given Node when a node is given",
+        "videoLink": "https://www.youtube.com/playlist?list=PLgUwDviBIf0oF6QL8m22w1hIDC1vJ_BHz",
+        "problemLink": "https://leetcode.com/problems/delete-node-in-a-linked-list/description/",
+        "difficulty": "Medium",
+        "revisionChecklist": false
+      }
+    ],
+    "comment": ""
+  },
+  {
+    "id": "day-6-linked-list-ii",
+    "title": "Day 6: Linked List Part-II",
+    "difficulty": "Medium",
+    "status": "not-started",
+    "subtopics": [
+      {
+        "name": "Find Intersection point of Y LinkedList",
+        "videoLink": "https://www.youtube.com/playlist?list=PLgUwDviBIf0oF6QL8m22w1hIDC1vJ_BHz",
+        "problemLink": "https://leetcode.com/problems/intersection-of-two-linked-lists/description/",
+        "difficulty": "Medium",
+        "revisionChecklist": false
+      },
+      {
+        "name": "Detect a cycle in Linked List",
+        "videoLink": "https://www.youtube.com/playlist?list=PLgUwDviBIf0oF6QL8m22w1hIDC1vJ_BHz",
+        "problemLink": "https://leetcode.com/problems/linked-list-cycle/description/",
+        "difficulty": "Medium",
+        "revisionChecklist": false
+      },
+      {
+        "name": "Reverse a LinkedList in groups of size k",
+        "videoLink": "https://www.youtube.com/playlist?list=PLgUwDviBIf0oF6QL8m22w1hIDC1vJ_BHz",
+        "problemLink": "https://leetcode.com/problems/reverse-nodes-in-k-group/description/",
+        "difficulty": "Medium",
+        "revisionChecklist": false
+      },
+      {
+        "name": "Check if a LinkedList is palindrome or not",
+        "videoLink": "https://www.youtube.com/playlist?list=PLgUwDviBIf0oF6QL8m22w1hIDC1vJ_BHz",
+        "problemLink": "https://leetcode.com/problems/palindrome-linked-list/description/",
+        "difficulty": "Medium",
+        "revisionChecklist": false
+      },
+      {
+        "name": "Find the starting point of the Loop of LinkedList",
+        "videoLink": "https://www.youtube.com/playlist?list=PLgUwDviBIf0oF6QL8m22w1hIDC1vJ_BHz",
+        "problemLink": "https://leetcode.com/problems/linked-list-cycle-ii/description/",
+        "difficulty": "Medium",
+        "revisionChecklist": false
+      },
+      {
+        "name": "Flattening of a LinkedList",
+        "videoLink": "https://www.youtube.com/playlist?list=PLgUwDviBIf0oF6QL8m22w1hIDC1vJ_BHz",
+        "problemLink": "https://www.geeksforgeeks.org/flattening-a-linked-list/",
+        "difficulty": "Medium",
+        "revisionChecklist": false
+      }
+    ],
+    "comment": ""
+  },
+  {
+    "id": "day-7-linked-list-arrays",
+    "title": "Day 7: Linked List and Arrays",
+    "difficulty": "Medium",
+    "status": "not-started",
+    "subtopics": [
+      {
+        "name": "Rotate a LinkedList",
+        "videoLink": "https://www.youtube.com/playlist?list=PLgUwDviBIf0oF6QL8m22w1hIDC1vJ_BHz",
+        "problemLink": "https://www.geeksforgeeks.org/flattening-a-linked-list/",
+        "difficulty": "Medium",
+        "revisionChecklist": false
+      },
+      {
+        "name": "Clone a Linked List with random and next pointer",
+        "videoLink": "https://www.youtube.com/playlist?list=PLgUwDviBIf0oF6QL8m22w1hIDC1vJ_BHz",
+        "problemLink": "https://leetcode.com/problems/copy-list-with-random-pointer/description/",
+        "difficulty": "Medium",
+        "revisionChecklist": false
+      },
+      {
+        "name": "3 Sum",
+        "videoLink": "https://www.youtube.com/playlist?list=PLgUwDviBIf0oF6QL8m22w1hIDC1vJ_BHz",
+        "problemLink": "https://leetcode.com/problems/3sum/description/",
+        "difficulty": "Medium",
+        "revisionChecklist": false
+      },
+      {
+        "name": "Trapping Rainwater",
+        "videoLink": "https://www.youtube.com/playlist?list=PLgUwDviBIf0oF6QL8m22w1hIDC1vJ_BHz",
+        "problemLink": "https://leetcode.com/problems/trapping-rain-water/description/",
+        "difficulty": "Medium",
+        "revisionChecklist": false
+      },
+      {
+        "name": "Remove Duplicate from Sorted array",
+        "videoLink": "https://www.youtube.com/playlist?list=PLgUwDviBIf0oF6QL8m22w1hIDC1vJ_BHz",
+        "problemLink": "https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/",
+        "difficulty": "Medium",
+        "revisionChecklist": false
+      },
+      {
+        "name": "Max consecutive ones",
+        "videoLink": "https://www.youtube.com/playlist?list=PLgUwDviBIf0oF6QL8m22w1hIDC1vJ_BHz",
+        "problemLink": "https://leetcode.com/problems/max-consecutive-ones/description/",
+        "difficulty": "Medium",
+        "revisionChecklist": false
+      }
+    ],
+    "comment": ""
+  },
+  {
+    "id": "day-8-greedy",
+    "title": "Day 8: Greedy Algorithm",
+    "difficulty": "Medium",
+    "status": "not-started",
+    "subtopics": [
+      {
+        "name": "N meetings in one room",
+        "videoLink": "https://www.youtube.com/playlist?list=PLgUwDviBIf0oF6QL8m22w1hIDC1vJ_BHz",
+        "problemLink": "https://www.geeksforgeeks.org/n-meetings-in-one-room/",
+        "difficulty": "Medium",
+        "revisionChecklist": false
+      },
+      {
+        "name": "Minimum number of platforms required for a railway",
+        "videoLink": "https://www.youtube.com/playlist?list=PLgUwDviBIf0oF6QL8m22w1hIDC1vJ_BHz",
+        "problemLink": "https://www.geeksforgeeks.org/minimum-number-platforms-required-railwaybus-station/",
+        "difficulty": "Medium",
+        "revisionChecklist": false
+      },
+      {
+        "name": "Job sequencing Problem",
+        "videoLink": "https://www.youtube.com/playlist?list=PLgUwDviBIf0oF6QL8m22w1hIDC1vJ_BHz",
+        "problemLink": "https://www.geeksforgeeks.org/job-sequencing-problem/",
+        "difficulty": "Medium",
+        "revisionChecklist": false
+      },
+      {
+        "name": "Fractional Knapsack Problem",
+        "videoLink": "https://www.youtube.com/playlist?list=PLgUwDviBIf0oF6QL8m22w1hIDC1vJ_BHz",
+        "problemLink": "https://www.geeksforgeeks.org/fractional-knapsack-problem/",
+        "difficulty": "Medium",
+        "revisionChecklist": false
+      },
+      {
+        "name": "Greedy algorithm to find minimum number of coins",
+        "videoLink": "https://www.youtube.com/playlist?list=PLgUwDviBIf0oF6QL8m22w1hIDC1vJ_BHz",
+        "problemLink": "https://www.geeksforgeeks.org/find-minimum-number-of-coins-that-make-a-change/",
+        "difficulty": "Medium",
+        "revisionChecklist": false
+      },
+      {
+        "name": "Assign Cookies",
+        "videoLink": "https://www.youtube.com/playlist?list=PLgUwDviBIf0oF6QL8m22w1hIDC1vJ_BHz",
+        "problemLink": "https://leetcode.com/problems/assign-cookies/description/",
+        "difficulty": "Medium",
+        "revisionChecklist": false
+      }
+    ],
+    "comment": ""
+  }
+]
