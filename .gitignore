@@ -3,6 +3,8 @@
 # Stack: React + Vite + TypeScript + Supabase + TailwindCSS
 # ----------------------------
 
+.env
+
 # === Dependencies ===
 node_modules/
 
