@@ -41,34 +41,42 @@ export default function EditProfile() {
   }, []);
 
   // Update username
-  const handleUpdate = async () => {
-    setMessage("");
-    setLoading(true);
+const handleUpdate = async () => {
+  setMessage("");
+  setLoading(true);
 
-    const { data: { user } } = await supabase.auth.getUser();
-    if (!user) {
-      setMessage("⚠️ User not logged in.");
-      setLoading(false);
-      return;
-    }
+  const {
+    data: { user },
+  } = await supabase.auth.getUser();
+  if (!user) {
+    setMessage("⚠️ User not logged in.");
+    setLoading(false);
+    return;
+  }
 
-    const { error } = await supabase
-      .from("user_profiles")
-      .update({
+  // Try update, else insert
+  const { data, error } = await supabase
+    .from("user_profiles")
+    .upsert(
+      {
+        user_id: user.id,
+         email: user.email,
         username,
         updated_at: new Date().toISOString(),
-      })
-      .eq("user_id", user.id);
+      },
+      { onConflict: "user_id" } // Ensures update if exists
+    );
 
-    if (error) {
-      console.error(error);
-      setMessage("❌ Error updating username. Please try again.");
-    } else {
-      setMessage("✅ Username updated successfully!");
-    }
+  if (error) {
+    console.error(error);
+    setMessage("❌ Error updating username. Please try again.");
+  } else {
+    setMessage("✅ Username updated successfully!");
+  }
 
-    setLoading(false);
-  };
+  setLoading(false);
+};
+
 
   return (
     <div className="min-h-screen flex flex-col bg-background text-foreground">
